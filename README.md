@@ -18,5 +18,5 @@ https://github.com/geekfujiwara/DocAIPrompt/assets/96101315/bf60fbcd-991f-4ace-a
 
 ソリューションはリリースから取得することができます。
 
-(ソリューションの入手)[https://github.com/geekfujiwara/DocAIPrompt/releases/tag/AI%E6%8C%87%E7%A4%BA%E3%82%A2%E3%83%97%E3%83%AA]
+[ソリューションの入手](https://github.com/geekfujiwara/DocAIPrompt/releases/tag/AI%E6%8C%87%E7%A4%BA%E3%82%A2%E3%83%97%E3%83%AA)
 
