@@ -12,7 +12,13 @@ https://github.com/geekfujiwara/DocAIPrompt/assets/96101315/bf60fbcd-991f-4ace-a
 > 
 > また、動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
 
-## インストール方法
+# 前提条件
+
+AI Builder を利用しています。AI Builder では2つのモデルを利用しています。テキスト認識エンジンによる画像またはPDFのテキスト化、さらにAIプロンプトです。そのため、イアkの雷雨せぬあs
+
+* [Power Apps Premium](https://www.microsoft.com/ja-jp/power-platform/products/power-apps/pricing) ライセンスが必要です。
+
+# インストール方法
 
 ソリューションで配布しています。
 
