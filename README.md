@@ -14,7 +14,7 @@ https://github.com/geekfujiwara/DocAIPrompt/assets/96101315/bf60fbcd-991f-4ace-a
 
 # 前提条件
 
-AI Builder を利用しています。AI Builder では2つのモデルを利用しています。テキスト認識エンジンによる画像またはPDFのテキスト化、さらにAIプロンプトです。そのため、イアkの雷雨せぬあs
+AI Builder を利用しています。AI Builder では2つのモデルを利用しています。テキスト認識エンジンによる画像またはPDFのテキスト化、さらにAIプロンプトを利用しています。
 
 * [Power Apps Premium](https://www.microsoft.com/ja-jp/power-platform/products/power-apps/pricing) ライセンスが必要です。
 
